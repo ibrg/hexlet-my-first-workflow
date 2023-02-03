@@ -3,4 +3,4 @@
 https://ru.hexlet.io/courses/github-actions/lessons/intro/theory_unit
 
 
-![example workflow](https://github.com/ibrg/hexlet-my-first-workflow/blob/main/workflows/say-hello.yml/badge.svg)
+![example workflow](https://github.com/ibrg/hexlet-my-first-workflow/blob/main/workflows/say-hello/badge.svg)
